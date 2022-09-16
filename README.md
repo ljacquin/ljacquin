@@ -1,4 +1,4 @@
-[<img src="docs/Banner_okp4.png"/>](https://okp4.network)
+[<img src="docs/1660923446122.jpeg"/>](https://gaiha.org/fr/)
 
 # Hello 👋, I'm Laval Jacquin
 
