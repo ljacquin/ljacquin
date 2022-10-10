@@ -25,7 +25,7 @@ Looking for information about me ? Here is what you need to know :
 
 - What I am doing currently : I am the Chief Technology Officer (CTO) of a company named GAIHA which offers AI SaaS solutions, which are scientifically and clinically validated cutting edge technologies, for:
 
-    - diabetic retinopathy, its level of severity, and maculopathy detection based on fundus images
+    - diabetic retinopathy detection, and its level of severity, and maculopathy detection based on fundus images
 
     - early breast cancer detection based on blood sample and anthropometric measurements
 
