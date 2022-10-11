@@ -21,7 +21,7 @@ Looking for information about me ? Here is what you need to know :
   - I developed the Deep vision for Diabetic Retinopathy Detection (3DR) SaaS approach, based on deep convolutional neural networks, which allows automated referable diabetic retinopathy detection. This approach has been benchmarked with another approach cleared by the FDA in the USA and allows ; 1) fast, 2) massive and 3) regular screening and follow-up of patients.  The 3DR SaaS is currently used by the [University Health Centre of Dakar](https://abassndao.business.site/)
   - I developed the CRAN package [KRMM](https://cran.r-project.org/web/packages/KRMM/index.html) for solving "Reproducing Kernel Hilbert Space" (RKHS) regression, used by teams of INRA and CIRAD for genomic prediction and analyses, which competes with current implementations of SVM, random forests and neural networks within the omic framework.
 
-  - I lead an amazing team of data scientists at [OKP4](https://okp4.network/?et_blog) where we develop many AI based services, for a decentralized protocol, which will allow data sharing and new knowledge creation
+  - I supervised an amazing team of data scientists at [OKP4](https://okp4.network/?et_blog) where we develop many AI based services, for a decentralized protocol, which will allow data sharing and new knowledge creation
 
 - What I am doing currently : I am the Chief Technology Officer (CTO) of a company named GAIHA which offers AI SaaS solutions, which are scientifically and clinically validated cutting edge technologies, for:
 
