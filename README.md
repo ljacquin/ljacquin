@@ -23,7 +23,7 @@ Looking for information about me ? Here is what you need to know :
 
   - I supervised an amazing team of data scientists at [OKP4](https://okp4.network/?et_blog) where we develop many AI based services, for a decentralized protocol, which will allow data sharing and new knowledge creation
 
-- What I am doing currently : I am the Chief Technology Officer (CTO) of a company named GAIHA which offers AI SaaS solutions, which are scientifically and clinically validated cutting edge technologies, for:
+- What I am doing currently : I am the Chief Technology Officer (CTO) of a company named [GAIHA](https://gaiha.org/fr) which offers AI SaaS solutions, which are scientifically and clinically validated cutting edge technologies, for:
 
     - referable diabetic retinopathy, its level of severity, and maculopathy detection based on fundus images
     
