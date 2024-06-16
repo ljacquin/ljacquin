@@ -10,10 +10,10 @@
 
 Looking for information about me ? Here is what you need to know :
 
-- My background : I am a statistician and machine learning professional by education, with a background in mathematics and research. 
+- My background : I am a statistician, quantitative geneticist, machine and deep learning professional by education, with a background in mathematics and research. 
 
 
-- My passion : solving data science problems from theory to practice - and vice versa ! - using languages and technologies such as OpenCV, Python, TensorFlow, Keras, R, Shiny, SQL, AWS, Docker, Kubernetes etc., in fields such as the manufacturing industry, energy, the medical sector, agronomy, etc.  I am used to develop new statistical & machine learning methods, or to apply state of the art techniques from statistics, machine and deep learning (e.g. Bayesian & Frequentist approaches, Kernel methods, Ensemble methods, Deep-NN, Conv-NN, etc.).
+- My passion : solving data science problems from theory to practice - and vice versa ! - using languages and technologies such as OpenCV, Python, TensorFlow, Keras, R, Shiny, SQL, AWS, Docker, Kubernetes etc., in fields such as agronomy, medical sector, manufacturing industry, energy, etc. I am used to develop new statistical & machine learning methods, or to apply state of the art techniques from statistics, machine and deep learning (e.g. Bayesian & Frequentist approaches, Kernel methods, Ensemble methods, Deep-NN, Conv-NN, etc.).
 
 
 - What I have achieved so far :
