@@ -42,7 +42,7 @@ Looking for information about me ? Here is what you need to know :
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="50" />  
 <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/langfr-440px-Tensorflow_logo.svg.png" alt="Tensorflow" height="50" />  
 <img style="margin: 10px" src="https://www.r-project.org/Rlogo.png" alt="R" height="50" />  
-<img style="margin: 10px" src="https://community.rstudio.com/uploads/default/optimized/3X/e/4/e480b9f0b817e6d01679a20d9fd9ca1b8ff8e434_2_618x500.jpeg" alt="Shiny" height="50" />  
+<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Shiny_hex_logo.svg/512px-Shiny_hex_logo.svg.png" alt="Shiny" height="50" />  
 <img style="margin: 10px" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="MySQL" height="50" />
 <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/AmazonWebservices_Logo.svg/1024px-AmazonWebservices_Logo.svg.png" alt="AWS" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/elasticsearch.png" alt="Elastic Search" height="50" />  
