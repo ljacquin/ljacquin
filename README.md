@@ -8,30 +8,26 @@
 
 ## Happy to meet you !
 
-Looking for information about me ? Here is what you need to know :
+Looking for information about me ? Here is my resume :
 
-- My background : I am a statistician & quantitative geneticist, and machine & deep learning professional by education, with a background in research. 
-
-
-- My passion : solving data science problems from theory to practice - and vice versa ! - using languages and technologies such as OpenCV, Python, TensorFlow, Keras, R, Shiny, SQL, AWS, Docker, Kubernetes etc., in fields such as agronomy, medical sector, manufacturing industry, energy, etc. I am used to develop new statistical & machine learning methods, or to apply state of the art techniques from statistics, machine and deep learning (e.g. Bayesian & Frequentist approaches, Kernel methods, Ensemble methods, Deep-NN, Conv-NN, etc.).
+- Background: I am a quantitative geneticist by training and a software developer by experience, with expertise in statistical genetics, including GWAS, haplotype association mapping, genomic prediction, and 
+optimization of breeding schemes. I also bring experience from both the medical and energy industries, where I have applied my skills to solve complex, real-world challenges. 
 
 
-- What I have achieved so far :
-  - I developed the CRAN package [KRMM](https://cran.r-project.org/web/packages/KRMM/index.html) for solving "Reproducing Kernel Hilbert Space" (RKHS) regression, used by teams of INRA and CIRAD for genomic prediction and analyses, which competes with current implementations of SVM, random forests and neural networks within the omic framework.
-  - I developed the [Prio Retino+](https://gaiha.org/fr/prioretino/) SaaS approach, based on deep convolutional neural networks, which allows automated referable diabetic retinopathy, maculopathy, and glaucoma detection. This approach has been benchmarked with another approach cleared by the FDA in the USA and allows ; 1) fast, 2) massive and 3) regular screening and follow-up of patients.  The [Prio Retino+](https://gaiha.org/fr/prioretino/) SaaS is currently used by a [World Health Organization (WHO) Center in Dakar](https://abassndao.business.site/)
-  - I developed the Maintenance Factory SaaS suite, for one of my companies named [CYM](https://cym-iot.com/en/), which performs real-time analyses using machine, sensor or telemetric data and aims at reducing costs and increasing production within the manufacturing intelligence and predictive maintenance framework.
-  - I supervised an amazing team of data scientists at [OKP4](https://okp4.network/?et_blog) where we develop many AI based services, for a decentralized protocol, which will allow data sharing and new knowledge creation
+- Interests: Solve complex scientific problems and translate them into actionable solutions by leveraging scientific knowledge and cutting-edge programming languages and technologies, such as Python, TensorFlow, 
+Keras, R, R Shiny, and AWS, in fields like quantitative genetics, breeding, and industrial applications. 
 
-- What I am doing currently : I am the Chief Technology Officer (CTO) of a company named [GAIHA](https://gaiha.org) which offers AI SaaS solutions, which are scientifically and clinically validated cutting edge technologies, for:
+- Scientific software contributions:
 
-    - referable diabetic retinopathy, its level of severity, and maculopathy detection based on fundus images
-    
-    - referable glaucoma detection based on fundus images
+  - I developed [WISER](https://github.com/ljacquin/wiser) (to be published soon) to enhance phenotype estimation per genotype in experimental designs by correcting for population structure, resulting in more accurate GWAS and genomic predictions through improved genetic variance estimation.
+  -  I developed the R package [KRMM](https://github.com/ljacquin/wiser) for solving RKHS regression, used by teams of INRAE and CIRAD for genomic prediction and analyses, which competes with current implementations of SVM, random forests and neural networks within the omic framework. I also developed the [KHAMIX](https://github.com/ljacquin/khamix) software for haplotype-based association mapping.
+  -  I developed the [Prio Retino+](https://gaiha.org/fr/prioretino/) approach for a start-up named Good AI Health Assistant (GAIHA), based on deep convolutional neural networks, which allows automated referable diabetic retinopathy 
+detection. This approach has been benchmarked with another approach cleared by the FDA in the USA and allows; 1) fast, 2) massive and 3) regular screening and follow-up of patients. The [Prio Retino+](https://gaiha.org/fr/prioretino/) is currently used by a [World Health Organization (WHO) Center in Dakar](https://abassndao.business.site/) 
 
-    - early breast cancer detection based on blood sample and anthropometric measurements
+- Current position: I am currently serving as a postdoctoral researcher and engineer, on a fixed-term contract at IRHS (INRAE, Angers), actively engaged in the AppleBIOME project within the ResPOM team. My focus is 
+on enhancing the resistance of both apple and pear trees against biotic stressors.  Additionally, I hold the role of CTO at GAIHA. 
 
 ## 🔧 Technologies in which I'm well versed
-
 
 <div align="center">  
 <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/300px-Tux.svg.png" alt="Linux" height="50" />
