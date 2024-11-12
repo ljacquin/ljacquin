@@ -10,7 +10,7 @@
 
 Looking for information about me ? Here is my resume :
 
-- Background: I am a statistician & quantitative geneticist by training and a software developer by experience, with expertise in statistical genetics, including GWAS, haplotype association mapping, genomic prediction, and 
+- Background: I am a statistician & quantitative geneticist by training, and a software developer by experience, with expertise in statistical genetics, including GWAS, haplotype association mapping, genomic prediction, and 
 optimization of breeding schemes. I also bring experience from both the medical and energy industries, where I have applied my skills to solve complex, real-world challenges. 
 
 
