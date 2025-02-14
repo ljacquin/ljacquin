@@ -1,4 +1,4 @@
-<img src="docs/img_.png" width="700" height="300"/>
+<img src="docs/img_.png" width="600" height="300"/>
 
 # Hello 👋, I'm Laval Jacquin
 
