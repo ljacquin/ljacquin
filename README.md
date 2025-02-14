@@ -1,4 +1,4 @@
-<img src="docs/img_.png"/>
+<img src="docs/peanuts__.png"/>
 
 # Hello 👋, I'm Laval Jacquin
 
