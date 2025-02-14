@@ -1,4 +1,4 @@
-[<img src="docs/img_.png"/>]
+<img src="docs/img_.png" width="500" height="300"/>
 
 # Hello 👋, I'm Laval Jacquin
 
