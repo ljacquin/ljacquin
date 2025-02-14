@@ -1,4 +1,4 @@
-[<img src="docs/gaiha_banner.png"/>](https://gaiha.org/fr/)
+[<img src="docs/img_.png"/>]
 
 # Hello 👋, I'm Laval Jacquin
 
