@@ -1,4 +1,4 @@
-<img src="docs/peanuts__.png" style="width: 250px; height: auto;"/>
+<img src="docs/peanuts__.png" style="width: 200px; height: auto;"/>
 
 # Hello 👋, I'm Laval Jacquin
 
