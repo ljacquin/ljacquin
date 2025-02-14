@@ -19,7 +19,7 @@ Keras, R, R Shiny, and AWS, in fields like quantitative genetics, breeding, and 
 
 - Scientific software contributions:
 
-  - I developed [WISER](https://github.com/ljacquin/wiser) (to be published soon) to enhance phenotype estimation per genotype in experimental designs by correcting for population structure, resulting in more accurate GWAS and genomic predictions through improved genetic variance estimation.
+  - I developed [WISER](https://github.com/ljacquin/wiser) to enhance phenotype estimation per genotype in experimental designs by correcting for population structure, resulting in more accurate GWAS and genomic predictions through improved genetic variance estimation.
   -  I developed the R package [KRMM](https://github.com/ljacquin/wiser) for solving RKHS regression, used by teams of INRAE and CIRAD for genomic prediction and analyses, which competes with current implementations of SVM, random forests and neural networks within the omic framework. I also developed the [KHAMIX](https://github.com/ljacquin/khamix) software for haplotype-based association mapping.
   -  I developed the [Prio Retino+](https://gaiha.org/fr/prioretino/) approach for a start-up named Good AI Health Assistant (GAIHA), based on deep convolutional neural networks, which allows automated referable diabetic retinopathy 
 detection. This approach has been benchmarked with another approach cleared by the FDA in the USA and allows; 1) fast, 2) massive and 3) regular screening and follow-up of patients. The [Prio Retino+](https://gaiha.org/fr/prioretino/) is currently used by a [World Health Organization (WHO) Center in Dakar](https://abassndao.business.site/) 
