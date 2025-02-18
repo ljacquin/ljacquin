@@ -25,7 +25,7 @@ Keras, R, R Shiny, and AWS, in fields like quantitative genetics, breeding, and 
 detection. This approach has been benchmarked with another approach cleared by the FDA in the USA and allows; 1) fast, 2) massive and 3) regular screening and follow-up of patients. The [Prio Retino+](https://gaiha.org/fr/prioretino/) is currently used by a [World Health Organization (WHO) Center in Dakar](https://abassndao.business.site/) 
 
 - Current position: I am currently serving as a postdoctoral researcher and engineer, on a fixed-term contract at IRHS (INRAE, Angers), actively engaged in the AppleBIOME project within the ResPOM team. My focus is 
-on enhancing the resistance of both apple and pear trees against biotic stressors.  Additionally, I hold the role of CTO at GAIHA. 
+on enhancing the resistance of both apple and pear trees against biotic stressors.  
 
 ## 🔧 Technologies in which I'm well versed
 
