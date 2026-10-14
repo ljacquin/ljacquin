@@ -2,6 +2,8 @@
 
 # Hello 👋, I'm Laval Jacquin
 
+[![DOI](https://zenodo.org/badge/493310431.svg)](https://doi.org/10.5281/zenodo.23346036) (Yes, I have a DOI, weird right ?)
+
 <a href="https://www.linkedin.com/in/laval-jacquin-ph-d-60716390/" target="_blank">
   <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
