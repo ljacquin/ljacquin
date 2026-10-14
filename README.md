@@ -4,8 +4,7 @@
 
 **ORCID iD :** [0000-0003-2536-3636](https://orcid.org)
 
-[<a href="https://doi.org/10.5281/zenodo.23346036"><img src="https://zenodo.org/badge/493310431.svg" alt="DOI"></a>](https://zenodo.org/badge/493310431.svg
-) (Yes, I have a DOI, weird right ?)
+**DOI :** [10.5281/zenodo.23346037](https://zenodo.org)
 
 <a href="https://www.linkedin.com/in/laval-jacquin-ph-d-60716390/" target="_blank">
   <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
